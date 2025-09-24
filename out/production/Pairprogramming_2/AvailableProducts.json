@@ -1,0 +1,5 @@
+[
+  {"id":1,"name":"Laptop","price":800.00,"stock":5,"category":"Electronics"},
+  {"id":2,"name":"Headphones","price":50.00,"stock":20,"category":"Electronics"},
+  {"id":3,"name":"Book","price":15.00,"stock":30,"category":"Books"}
+]
